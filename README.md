@@ -20,3 +20,5 @@ Slight modifications
 - colors
     - Changed almost all `fg_bold`s to `fg` because it looked nicer with my [hyper](https://github.com/zeit/hyper) theme
     - The original theme ignored color applied to the working directory. Now displays with `fg[blue]`.
+
+![Screenshot](pointerThemeJesse.png)
